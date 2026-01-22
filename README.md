@@ -309,7 +309,7 @@ The app is configured in `app.json` for Expo platform:
 -Offline downloads not implemented (architecture ready)
 -No authentication (intentionally omitted)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these guidelines:
 
