@@ -2,9 +2,18 @@
   "expo": {
     "name": "music-player",
     "slug": "music-player",
-    "platforms": ["android", "ios", "web"],
+    "platforms": [
+      "android",
+      "ios",
+      "web"
+    ],
     "android": {
       "package": "com.musicplayer.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "63a1d0da-198f-45ee-b608-d2bf62566fe3"
+      }
     }
   }
 }
