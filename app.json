@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "music-player",
+    "slug": "music-player",
+    "platforms": ["android", "ios", "web"],
+    "android": {
+      "package": "com.musicplayer.app"
+    }
+  }
+}
